@@ -1,2 +1,2 @@
-# IRBC
+# BRBC
 Implementation of the paper
